@@ -1,0 +1,12 @@
+
+body{
+  background-color: hsl(193, 100%, 96%);
+  align-items: center;
+}
+
+button{
+  background-color:hsl(320, 90%, 56%);
+  border-radius: 10px; 
+  align-text: center;
+  padding: 15px;
+}
